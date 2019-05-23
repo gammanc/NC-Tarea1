@@ -1,0 +1,42 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+/* label color */
+.input-field label {
+	color: #2196f3;
+}
+/* label focus color */
+.input-field input[type=text]:focus + label {
+	color: #2196f3;
+}
+/* label underline focus color */
+.input-field input[type=text]:focus {
+	border-bottom: 1px solid #2196f3 !important;
+	box-shadow: 0 1px 0 0 #2196f3 !important;
+}
+/* icon prefix focus color */
+.input-field .prefix.active {
+	color: #2196f3;
+}
+
+.btn-large.waves-effect.waves-blue.white{
+	color: #2196f3;
+}
+
+ul.dropdown-content.select-dropdown li span {
+	color: #2196f3;
+}
+
+h3 {
+	font-size: 2rem;
+	color: #2196f3;
+}
+
+thead th{
+	color: #2196f3;
+}
+
+tbody tr th {
+	text-decoration: none;
+}
