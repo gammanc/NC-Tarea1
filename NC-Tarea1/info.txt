@@ -1,0 +1,5 @@
+
+Emerson Gamaliel Nolasco Cornejo - 00215316
+Nombre de la base de datos: biblioteca
+Usuario: postgres
+Contraseña: root
